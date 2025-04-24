@@ -1,0 +1,5 @@
+# 주피터 노트북은 LF 고정
+*.ipynb text eol=lf
+
+# 파이썬 파일도 LF 고정
+*.py text eol=lf
